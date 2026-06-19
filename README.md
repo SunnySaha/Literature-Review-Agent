@@ -44,7 +44,6 @@ This version builds the foundational pipeline: fetch papers, summarize with an L
 |---|---|---|
 | LLM | Groq API (Llama 3.1 8B) | Free (14,400 req/day) |
 | Paper source | arXiv API | CrossRef API |
-| Paper source 
 | Spreadsheet export | openpyxl 
 | Environment | Kaggle Notebooks 
 | UI | ipywidgets 
